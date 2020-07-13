@@ -18,35 +18,35 @@ A passionate Software Developer 🚀 and content writer ✍.
 
 - **Languages**: 
 
-  <code><img height="30" src="./assets/js.png" style="max-width:100%;"></code> 
-  <code><img height="30" src="./assets/ts.png" style="max-width:100%;"></code>
-  <code><img height="30" src="./assets/cpp.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/jinnatul/jinnatul/blob/master/assets/js.png" style="max-width:100%;"></code> 
+  <code><img height="30" src="https://github.com/jinnatul/jinnatul/blob/master/assets/ts.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/jinnatul/jinnatul/blob/master/assets/cpp.png" style="max-width:100%;"></code>
 
 - **Back-end**
 
-  <code><img height="30" src="./assets/nodejs.jpg" style="max-width:100%;"></code>
-  <code><img height="30" src="./assets/graphQL.png" style="max-width:100%;"></code>
-  <code><img height="30" src="./assets/npm.jpg" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/jinnatul/jinnatul/blob/master/assets/nodejs.jpg" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/jinnatul/jinnatul/blob/master/assets/graphQL.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/jinnatul/jinnatul/blob/master/assets/npm.jpg" style="max-width:100%;"></code>
 
 - **Front-end**
  
-  <code><img height="30" src="./assets/jquery.png" style="max-width:100%;"></code>
-  <code><img height="30" src="./assets/materialize.jpg" style="max-width:100%;"></code>
-  <code><img height="30" src="./assets/reactjs.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/jinnatul/jinnatul/blob/master/assets/jquery.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/jinnatul/jinnatul/blob/master/assets/materialize.jpg" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/jinnatul/jinnatul/blob/master/assets/reactjs.png" style="max-width:100%;"></code>
 
 - **Databases**  
 
-  <code><img height="30" src="./assets/mongodb.jpeg" style="max-width:100%;"></code>
-  <code><img height="30" src="./assets/sql.jpg" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/jinnatul/jinnatul/blob/master/assets/mongodb.jpeg" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/jinnatul/jinnatul/blob/master/assets/sql.jpg" style="max-width:100%;"></code>
 
 - **Cloud & Open Source**  
-  <code><img height="30" src="./assets/github.jpg" style="max-width:100%;"></code>
-  <code><img height="30" src="./assets/heroku.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/jinnatul/jinnatul/blob/master/assets/github.jpg" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/jinnatul/jinnatul/blob/master/assets/heroku.png" style="max-width:100%;"></code>
 
 - **Tools**
 
-  <code><img height="30" src="./assets/postman.png" style="max-width:100%;"></code>
-  <code><img height="30" src="./assets/vscode.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/jinnatul/jinnatul/blob/master/assets/postman.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/jinnatul/jinnatul/blob/master/assets/vscode.png" style="max-width:100%;"></code>
 
 
 
