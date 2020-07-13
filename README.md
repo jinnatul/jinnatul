@@ -15,17 +15,39 @@ Here are some ideas to get you started:
 A passionate Software Developer 🚀 and content writer ✍.
 
 ### Languages and Tools: 🔥
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" style="max-width:100%;"></code>
-<code><img height="20" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width:100%;"></a></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" style="max-width:100%;"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" style="max-width:100%;"></code>
-<code><img height="20" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" style="max-width:100%;"></code>
-<code><img height="20" 
-src="https://camo.githubusercontent.com/226e0b50bb6083d78ceffd4d03be2ad4d49757b7/68747470733a2f2f6a6f6e617468616e6b61626c616e2e6769746875622e696f2f696d616765732f6d6174657269616c697a652e706e67" style="max-width:100%;"></code>
-<code><img height="20" 
-src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" style="max-width:100%;"></code>
+
+- **Languages**: 
+
+  <code><img height="30" src="./assets/js.png" style="max-width:100%;"></code> 
+  <code><img height="30" src="./assets/ts.png" style="max-width:100%;"></code>
+  <code><img height="30" src="./assets/cpp.png" style="max-width:100%;"></code>
+
+- **Back-end**
+
+  <code><img height="30" src="./assets/nodejs.jpg" style="max-width:100%;"></code>
+  <code><img height="30" src="./assets/graphQL.png" style="max-width:100%;"></code>
+  <code><img height="30" src="./assets/npm.jpg" style="max-width:100%;"></code>
+
+- **Front-end**
+ 
+  <code><img height="30" src="./assets/jquery.png" style="max-width:100%;"></code>
+  <code><img height="30" src="./assets/materialize.jpg" style="max-width:100%;"></code>
+  <code><img height="30" src="./assets/reactjs.png" style="max-width:100%;"></code>
+
+- **Databases**  
+
+  <code><img height="30" src="./assets/mongodb.jpeg" style="max-width:100%;"></code>
+  <code><img height="30" src="./assets/sql.jpg" style="max-width:100%;"></code>
+
+- **Cloud & Open Source**  
+  <code><img height="30" src="./assets/github.jpg" style="max-width:100%;"></code>
+  <code><img height="30" src="./assets/heroku.png" style="max-width:100%;"></code>
+
+- **Tools**
+
+  <code><img height="30" src="./assets/postman.png" style="max-width:100%;"></code>
+  <code><img height="30" src="./assets/vscode.png" style="max-width:100%;"></code>
+
+
 
 ![Morol's github stats](https://github-readme-stats.vercel.app/api?username=jinnatul&show_icons=true)
