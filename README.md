@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 ## Hi there, I'm [Morol](https://aboutmorol.herokuapp.com/) 👋
 A passionate Software Developer 🚀 and content writer ✍.
 
+![Morol's github stats](https://github-readme-stats.vercel.app/api?username=jinnatul&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinnatul)](https://github.com/jinnatul)
+
 ### Languages and Tools: 🔥
 
 - **Languages**: 
@@ -47,7 +50,3 @@ A passionate Software Developer 🚀 and content writer ✍.
 
   <code><img height="30" src="https://github.com/jinnatul/jinnatul/blob/master/assets/postman.png" style="max-width:100%;"></code>
   <code><img height="30" src="https://github.com/jinnatul/jinnatul/blob/master/assets/vscode.png" style="max-width:100%;"></code>
-
-
-
-![Morol's github stats](https://github-readme-stats.vercel.app/api?username=jinnatul&show_icons=true)
