@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 A passionate Software Developer 🚀 and content writer ✍.
 
 ![Morol's github stats](https://github-readme-stats.vercel.app/api?username=jinnatul&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinnatul)](https://github.com/jinnatul)
 
 ### Languages and Tools: 🔥
 
