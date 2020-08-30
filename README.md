@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --->
 
-## Hi there, I'm [Morol](https://aboutmorol.herokuapp.com/) 👋
+## Hi there, I'm [Morol](https://jinnatul.github.io/) 👋
 A passionate Software Developer 🚀 and content writer ✍.
 
 ### Languages and Tools: 🔥
