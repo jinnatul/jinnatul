@@ -49,3 +49,5 @@ A passionate Software Developer 🚀 and content writer ✍.
   <code><img height="30" src="https://github.com/jinnatul/jinnatul/blob/master/assets/vscode.png" style="max-width:100%;"></code>
 
 ![Morol's github stats](https://github-readme-stats.vercel.app/api?username=jinnatul&show_icons=true&theme=merko)
+
+![Visitor Count](https://profile-counter.glitch.me/jinnatul/count.svg)
