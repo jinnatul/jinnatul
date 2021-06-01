@@ -51,3 +51,6 @@ A passionate Software Developer 🚀 and content writer ✍.
 ![Morol's github stats](https://github-readme-stats.vercel.app/api?username=jinnatul&show_icons=true&theme=merko)
 
 ![Visitor Count](https://profile-counter.glitch.me/jinnatul/count.svg)
+
+<h3 align="left"> 🧡 Support:</h3>
+<p><a href="https://www.buymeacoffee.com/jinnatul"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Morol" /></a></p>
